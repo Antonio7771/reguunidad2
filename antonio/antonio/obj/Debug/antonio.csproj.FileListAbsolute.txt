@@ -1,0 +1,10 @@
+C:\Users\saul\source\repos\antonio\antonio\bin\Debug\antonio.exe.config
+C:\Users\saul\source\repos\antonio\antonio\bin\Debug\antonio.exe
+C:\Users\saul\source\repos\antonio\antonio\bin\Debug\antonio.pdb
+C:\Users\saul\source\repos\antonio\antonio\obj\Debug\antonio.csprojAssemblyReference.cache
+C:\Users\saul\source\repos\antonio\antonio\obj\Debug\antonio.Form1.resources
+C:\Users\saul\source\repos\antonio\antonio\obj\Debug\antonio.Properties.Resources.resources
+C:\Users\saul\source\repos\antonio\antonio\obj\Debug\antonio.csproj.GenerateResource.cache
+C:\Users\saul\source\repos\antonio\antonio\obj\Debug\antonio.csproj.CoreCompileInputs.cache
+C:\Users\saul\source\repos\antonio\antonio\obj\Debug\antonio.exe
+C:\Users\saul\source\repos\antonio\antonio\obj\Debug\antonio.pdb

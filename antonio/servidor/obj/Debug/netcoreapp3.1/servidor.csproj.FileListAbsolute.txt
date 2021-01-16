@@ -1,0 +1,13 @@
+C:\Users\saul\source\repos\antonio\servidor\bin\Debug\netcoreapp3.1\servidor.exe
+C:\Users\saul\source\repos\antonio\servidor\bin\Debug\netcoreapp3.1\servidor.deps.json
+C:\Users\saul\source\repos\antonio\servidor\bin\Debug\netcoreapp3.1\servidor.runtimeconfig.json
+C:\Users\saul\source\repos\antonio\servidor\bin\Debug\netcoreapp3.1\servidor.runtimeconfig.dev.json
+C:\Users\saul\source\repos\antonio\servidor\bin\Debug\netcoreapp3.1\servidor.dll
+C:\Users\saul\source\repos\antonio\servidor\bin\Debug\netcoreapp3.1\servidor.pdb
+C:\Users\saul\source\repos\antonio\servidor\obj\Debug\netcoreapp3.1\servidor.csprojAssemblyReference.cache
+C:\Users\saul\source\repos\antonio\servidor\obj\Debug\netcoreapp3.1\servidor.AssemblyInfoInputs.cache
+C:\Users\saul\source\repos\antonio\servidor\obj\Debug\netcoreapp3.1\servidor.AssemblyInfo.cs
+C:\Users\saul\source\repos\antonio\servidor\obj\Debug\netcoreapp3.1\servidor.csproj.CoreCompileInputs.cache
+C:\Users\saul\source\repos\antonio\servidor\obj\Debug\netcoreapp3.1\servidor.dll
+C:\Users\saul\source\repos\antonio\servidor\obj\Debug\netcoreapp3.1\servidor.pdb
+C:\Users\saul\source\repos\antonio\servidor\obj\Debug\netcoreapp3.1\servidor.genruntimeconfig.cache
